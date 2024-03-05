@@ -1,5 +1,5 @@
-# Eng-Walllet Official HD Web Wallet
-The official web wallet for Eng !
+# EngWallet Official HD Web Wallet
+The official web wallet for EngWallet !
 Supports HD Wallet protocol, sending/Receiving functionality, and creating & interacting with Smart Contracts.
 
 ## Development
