@@ -1,4 +1,4 @@
-# eXchangily Official HD Web Wallet
+# Eng-Walllet Official HD Web Wallet
 The official web wallet for eXchangily !
 Supports HD Wallet protocol, sending/Receiving functionality, and creating & interacting with Smart Contracts.
 
